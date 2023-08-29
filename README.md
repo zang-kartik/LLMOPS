@@ -55,10 +55,11 @@ LLMOps platform can examined in these categories
 
 - **Snorkel AI** -> Snorkel AI empowers enterprises to construct or customize foundational model and LLMs to acheive remarkable precision on domain specific datasets and use cases.
 
-- 
+- **Titan ML** -> Titan ML is an NLP development platform that aims businesses to build and implement smaller more economical deployment of LLMs.
 
+- **Valohai** -> Valohai streamlines MLOps and LLMOps automating data extraction to model deployment.
 
-
+- **ZenML** -> ZenML platform primarily focuses on operations of machine learning life cycle.
 
 
 
